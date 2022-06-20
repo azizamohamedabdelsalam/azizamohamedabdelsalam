@@ -1,8 +1,9 @@
 ### Hi  👋
-🔭 I’m currently working on ...
+
 🌱 I’m currently learning programming and developments skills 
-Spring Boot 2.7
-Hibernate and JPA
+- Java core 11 updates
+- Spring Boot 2.7
+- Hibernate and JPA
 
 <!--
 **azizamohamedabdelsalam/azizamohamedabdelsalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
