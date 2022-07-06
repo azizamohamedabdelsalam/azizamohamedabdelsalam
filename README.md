@@ -1,4 +1,6 @@
 
+Have experience in Software Developement and Business Analysis
+
 🌱 I’m currently learning programming and developments skills 
 - Java core 11 updates
 - Spring Boot 2.7
