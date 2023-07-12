@@ -1,8 +1,12 @@
 
-Have experience in Software Developement and Business Analysis
+Have experience in Software development and Business Analysis
 
 🌱 I’m currently learning programming and developments skills 
 - Java core 11 updates
+- Oracle
+- Maven Building Tool
+- Liquibase
+- JUnit Testing Version 4
 - Spring Boot 2.7
 - Hibernate and JPA
 - Docker Containerization
